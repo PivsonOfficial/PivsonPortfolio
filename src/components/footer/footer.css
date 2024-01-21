@@ -1,0 +1,42 @@
+.formular {
+    padding-top: 5%;
+    background-color: #2B2C28;
+    color: aliceblue;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.Kontakt {
+    padding-left: 10%;
+
+}
+.GridForm {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 100%;
+    padding-bottom: 5%;
+}
+.pozadi_footer {
+    background-color: #2B2C28;
+}
+
+
+.footer {
+    color: aliceblue;
+    background-color: #2B2C28;
+
+}
+
+.copyright {
+    color: aliceblue;
+    background-color: #2B2C28;
+}
+
+.link {
+    color: aliceblue;
+}
+
+hr{
+    background-color: aliceblue;
+    height: 5px;
+}
